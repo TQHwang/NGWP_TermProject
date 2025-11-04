@@ -6,10 +6,10 @@
 
 | 구분 | 내용 | 출처 |
 | :--- | :--- | :--- |
-| **개발 도구** | [cite_start]Visual Studio 2022 [cite: 175] [cite_start]| [cite: 175] |
-| **API** | [cite_start]Windows API (WinAPI) [cite: 175] [cite_start]| [cite: 175] |
-| **통신 프로토콜** | [cite_start]TCP/IP [cite: 175] [cite_start]| [cite: 175] |
-| **버전 관리** | [cite_start]Git, GitHub [cite: 175] [cite_start]| [cite: 175] |
+| **개발 도구** | Visual Studio 2022 |
+| **API** | Windows API (WinAPI) [cite: 175] [cite_start]| [cite: 175] |
+| **통신 프로토콜** | TCP/IP [cite: 175] [cite_start]| [cite: 175] |
+| **버전 관리** | Git, GitHub [cite: 175] [cite_start]| [cite: 175] |
 
 ---
 
