@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -30,8 +30,7 @@
               "RelativeToolTip": "NetworkManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-06T03:20:16.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-06T03:20:16.981Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "NetworkManager.cpp",
               "ToolTip": "D:\\GitHub\\NGWP_TermProject\\MarioServer\\NetworkManager.cpp",
               "RelativeToolTip": "NetworkManager.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-06T03:18:01.695Z",
               "EditorCaption": ""
