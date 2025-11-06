@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\GitHub\\NGWP_TermProject\\MarioServer\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C24C72F7-F87B-4BF0-9F7C-5DB25D7A0272}|MarioServer.vcxproj|D:\\GitHub\\NGWP_TermProject\\MarioServer\\NetworkManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C24C72F7-F87B-4BF0-9F7C-5DB25D7A0272}|MarioServer.vcxproj|solutionrelative:NetworkManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetworkManager.cpp",
+              "DocumentMoniker": "D:\\GitHub\\NGWP_TermProject\\MarioServer\\NetworkManager.cpp",
+              "RelativeDocumentMoniker": "NetworkManager.cpp",
+              "ToolTip": "D:\\GitHub\\NGWP_TermProject\\MarioServer\\NetworkManager.cpp",
+              "RelativeToolTip": "NetworkManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-06T03:18:01.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
