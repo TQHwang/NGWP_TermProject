@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\GitHub\\NGWP_TermProject\\MarioServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C24C72F7-F87B-4BF0-9F7C-5DB25D7A0272}|MarioServer.vcxproj|D:\\GitHub\\NGWP_TermProject\\MarioServer\\NetworkManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C24C72F7-F87B-4BF0-9F7C-5DB25D7A0272}|MarioServer.vcxproj|solutionrelative:NetworkManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C24C72F7-F87B-4BF0-9F7C-5DB25D7A0272}|MarioServer.vcxproj|D:\\GitHub\\NGWP_TermProject\\MarioServer\\NetworkManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C24C72F7-F87B-4BF0-9F7C-5DB25D7A0272}|MarioServer.vcxproj|solutionrelative:NetworkManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NetworkManager.h",
+              "DocumentMoniker": "D:\\GitHub\\NGWP_TermProject\\MarioServer\\NetworkManager.h",
+              "RelativeDocumentMoniker": "NetworkManager.h",
+              "ToolTip": "D:\\GitHub\\NGWP_TermProject\\MarioServer\\NetworkManager.h",
+              "RelativeToolTip": "NetworkManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-06T03:20:16.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NetworkManager.cpp",
               "DocumentMoniker": "D:\\GitHub\\NGWP_TermProject\\MarioServer\\NetworkManager.cpp",
               "RelativeDocumentMoniker": "NetworkManager.cpp",
